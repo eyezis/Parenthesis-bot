@@ -1,0 +1,153 @@
+2016-05-15 06:32:03 Trying to reply to: tingiling
+2016-05-15 06:32:03 https://www.reddit.com/r/relationships/comments/4jec2t/i_21_f_graduated_today_my_parents_50s_mf_were/d366s5x
+2016-05-15 06:32:05 Success!
+2016-05-15 06:32:10 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 06:32:13 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 06:32:17 Trying to reply to: climisinigemap
+2016-05-15 06:32:17 https://www.reddit.com/r/AllosMC/comments/4jfkld/bookfull_some_buried_caesar_by_rex_stout_cheap/d366spa
+2016-05-15 06:32:19 Success!
+2016-05-15 06:32:42 Trying to reply to: stinobestecjuipres
+2016-05-15 06:32:42 https://www.reddit.com/r/fuckingbees/comments/4jfko7/bookdownload_enter_a_murderer_by_ngaio_marsh/d366t75
+2016-05-15 06:32:43 Success!
+2016-05-15 06:33:17 Trying to reply to: glamelancodisca
+2016-05-15 06:33:17 https://www.reddit.com/r/rule31/comments/4jfkqj/bookfree_the_book_of_images_by_rainer_maria_rilke/d366ti6
+2016-05-15 06:33:19 Success!
+2016-05-15 06:33:23 Trying to reply to: fsyseltorobtomid
+2016-05-15 06:33:23 https://www.reddit.com/r/TarantulaClassifieds/comments/4jfkqn/bookfull_tristessa_by_jack_kerouac_prewiew_kindle/d366tif
+2016-05-15 06:33:25 Success!
+2016-05-15 06:33:35 Trying to reply to: fielecburgfiltparep
+2016-05-15 06:33:35 https://www.reddit.com/r/Kannelmaki/comments/4jfkrd/bookread_blandings_castle_by_pg_wodehouse_english/d366tlk
+2016-05-15 06:33:35 Success!
+2016-05-15 06:34:03 Trying to reply to: Sisiwakanamaru
+2016-05-15 06:34:03 https://www.reddit.com/r/moviescirclejerk/comments/4jfg0v/people_who_like_foreign_movies_are_all_film/d366tw9
+2016-05-15 06:34:05 Success!
+2016-05-15 06:34:30 Trying to reply to: esspascentsusbrisi
+2016-05-15 06:34:30 https://www.reddit.com/r/highlyimprobable/comments/4jfkv7/bookonline_tristes_tropiques_by_claude/d366u3a
+2016-05-15 06:34:31 Success!
+2016-05-15 06:35:00 Trying to reply to: grumgonloconkilo
+2016-05-15 06:35:00 https://www.reddit.com/r/Choujangles/comments/4jfkx4/bookonline_christine_by_stephen_king_torrent/d366uck
+2016-05-15 06:35:02 Success!
+2016-05-15 06:35:07 Trying to reply to: brownilentepaquar
+2016-05-15 06:35:07 https://www.reddit.com/r/TotalMadness/comments/4jfkx5/bookfull_some_do_not_by_ford_madox_ford_store/d366ucp
+2016-05-15 06:35:09 Success!
+2016-05-15 06:35:14 Trying to reply to: pomlighsupeemneypran
+2016-05-15 06:35:14 https://www.reddit.com/r/Guerrero/comments/4jfkxh/bookfull_introductory_lectures_on_psychoanalysis/d366ue6
+2016-05-15 06:35:15 Success!
+2016-05-15 06:35:33 Trying to reply to: HailDaHailu
+2016-05-15 06:35:33 https://www.reddit.com/r/DarthJarJar/comments/4j7f43/darth_jar_jar_spotted_in_the_force_awakens/d366ums
+2016-05-15 06:35:36 Success!
+2016-05-15 06:35:41 Trying to reply to: 404GoodNamesNotFound
+2016-05-15 06:35:41 https://www.reddit.com/r/AskReddit/comments/4jdvx6/whats_a_level_you_hate_in_a_video_game_you_love/d366uoh
+2016-05-15 06:35:44 Success!
+2016-05-15 06:35:49 Trying to reply to: verbmondersgistcama
+2016-05-15 06:35:49 https://www.reddit.com/r/SexyBlackAndWhite/comments/4jfkzs/bookfull_the_unexpected_mrs_pollifax_by_dorothy/d366urr
+2016-05-15 06:35:51 Success!
+2016-05-15 06:36:07 Trying to reply to: biopepnototangpdod
+2016-05-15 06:36:07 https://www.reddit.com/r/AdvancedMathematics/comments/4jfl0y/bookread_nightingale_wood_by_stella_gibbons/d366uwt
+2016-05-15 06:36:09 Success!
+2016-05-15 06:36:35 summon chain detected! https://www.reddit.com/r/AskReddit/comments/4jdvx6/whats_a_level_you_hate_in_a_video_game_you_love/d366v6n
+2016-05-15 06:36:41 Trying to reply to: tonglowbotevulcourt
+2016-05-15 06:36:41 https://www.reddit.com/r/treesprotips/comments/4jfl2j/bookread_bodas_de_sangre_by_federico_garcía_lorca/d366v7w
+2016-05-15 06:36:43 Success!
+2016-05-15 06:36:49 Trying to reply to: aerojockey
+2016-05-15 06:36:49 https://www.reddit.com/r/KingkillerChronicle/comments/4je9se/my_thoughts_on_popular_fan_theories/d366vav
+2016-05-15 06:36:51 Success!
+2016-05-15 06:36:57 Trying to reply to: smalbuinetateasneu
+2016-05-15 06:36:57 https://www.reddit.com/r/wacodnd/comments/4jfl3y/bookread_the_golden_notebook_by_doris_lessing/d366vd4
+2016-05-15 06:36:59 Success!
+2016-05-15 06:37:06 Trying to reply to: fatsaticjoifelko
+2016-05-15 06:37:06 https://www.reddit.com/r/thecycle/comments/4jfl4h/bookonline_ramona_quimby_age_8_by_beverly_cleary/d366vgn
+2016-05-15 06:37:07 Success!
+2016-05-15 06:37:19 Trying to reply to: headlanosetnifirm
+2016-05-15 06:37:19 https://www.reddit.com/r/Earthboundfans/comments/4jfl5k/bookread_go_tell_it_on_the_mountain_by_james/d366vkr
+2016-05-15 06:37:21 Success!
+2016-05-15 06:37:27 Trying to reply to: realthelungrabsalamb
+2016-05-15 06:37:27 https://www.reddit.com/r/sapphists/comments/4jfl62/bookread_hatters_castle_by_aj_cronin_ebay_how/d366vmn
+2016-05-15 06:37:30 Success!
+2016-05-15 06:38:37 Trying to reply to: tomassz
+2016-05-15 06:38:37 https://www.reddit.com/r/thegrandtour/comments/4jesib/as_i_complete_the_entire_series_of_top_gear_what/d366w7z
+2016-05-15 06:38:39 Success!
+2016-05-15 06:38:49 Trying to reply to: ricorcheckliphokow
+2016-05-15 06:38:49 https://www.reddit.com/r/liveview/comments/4jflah/bookfull_mensagem_poemas_esotéricos_by_fernando/d366wbg
+2016-05-15 06:38:51 Success!
+2016-05-15 06:39:11 Trying to reply to: balatonanili
+2016-05-15 06:39:11 https://www.reddit.com/r/yabish/comments/4jflbf/bookfree_after_many_a_summer_dies_the_swan_by/d366win
+2016-05-15 06:39:14 Success!
+2016-05-15 06:51:01 Trying to reply to: ABONESR
+2016-05-15 06:51:01 https://www.reddit.com/r/MMA/comments/4jekm4/spoiler_ronaldo_souza_vs_vitor_belfort/d36702h
+2016-05-15 06:51:03 Success!
+2016-05-15 07:02:31 Trying to reply to: EyeZiS
+2016-05-15 07:02:31 https://www.reddit.com/r/eyezis/comments/4gdr1w/jpg_test_its_actually_a_jif/d3678uz
+2016-05-15 07:02:33 Success!
+2016-05-15 07:03:59 Trying to reply to: EyeZiS
+2016-05-15 07:03:59 https://www.reddit.com/r/eyezis/comments/4jfniy/bot_test/d3679m6
+2016-05-15 07:04:02 Success!
+2016-05-15 07:05:20 Trying to reply to: EyeZiS
+2016-05-15 07:05:20 https://www.reddit.com/r/eyezis/comments/4jfniy/bot_test/d367a7f
+2016-05-15 07:05:23 Success!
+2016-05-15 07:17:56 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 07:17:56 
+2016-05-15 07:18:00 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 07:18:00 
+2016-05-15 07:18:04 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 07:18:04 
+2016-05-15 07:18:08 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 07:18:08 
+2016-05-15 07:18:12 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 07:18:12 
+2016-05-15 07:18:18 Trying to reply to: Halograma
+2016-05-15 07:18:18 https://www.reddit.com/r/portugal/comments/4jfnyj/ajuda_noções_de_programação/d367h1z
+2016-05-15 07:18:20 Success!
+2016-05-15 07:18:20 
+2016-05-15 07:18:30 Trying to reply to: minicharge
+2016-05-15 07:18:30 https://www.reddit.com/r/Overwatch/comments/4jer4q/playing_overwatch_seriously_has_me_hooked/d367h6b
+2016-05-15 07:18:32 Success!
+2016-05-15 07:18:32 
+2016-05-15 07:18:44 Trying to reply to: Grapefrukt123
+2016-05-15 07:18:44 https://www.reddit.com/r/sweden/comments/4jfi12/fler_börjar_förstå_varför_rondellhunden_var_viktig/d367hdu
+2016-05-15 07:18:46 Success!
+2016-05-15 07:18:46 
+2016-05-15 07:30:07 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 07:30:07 
+2016-05-15 07:30:21 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 07:30:21 
+2016-05-15 07:35:17 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 07:35:17 
+2016-05-15 07:35:29 Trying to reply to: thrownaway_MGTOW
+2016-05-15 07:35:29 https://www.reddit.com/r/MGTOW/comments/4iwyfh/the_lie_of_successful_people/d367r2q
+2016-05-15 07:35:31 Success!
+2016-05-15 07:35:31 
+2016-05-15 07:43:07 Error! 'NoneType' object has no attribute 'name'
+2016-05-15 07:43:07 
+2016-05-15 07:43:11 Trying to reply to: trafassunehhatag
+2016-05-15 07:43:11 https://www.reddit.com/r/campamerica/comments/4jfrce/bookonline_todos_los_fuegos_el_fuego_by_julio/d367vnh
+2016-05-15 07:43:12 Success!
+2016-05-15 07:43:12 
+2016-05-15 07:43:18 Trying to reply to: credunominscared
+2016-05-15 07:43:18 https://www.reddit.com/r/SPCSeminoleGamers/comments/4jfrd7/bookfree_the_gulag_archipelago_19181956_by/d367vup
+2016-05-15 07:43:20 Success!
+2016-05-15 07:43:20 
+2016-05-15 07:43:27 Trying to reply to: lcasuvletuakarte
+2016-05-15 07:43:27 https://www.reddit.com/r/imgoingtopurgforthis/comments/4jfrdg/bookonline_killing_floor_by_lee_child_flibusta/d367vxg
+2016-05-15 07:43:28 Success!
+2016-05-15 07:43:28 
+2016-05-15 07:43:34 Trying to reply to: lerppasutcsuvedor
+2016-05-15 07:43:34 https://www.reddit.com/r/SheffieldLake/comments/4jfrds/bookfull_to_green_angel_tower_by_tad_williams_how/d367vzv
+2016-05-15 07:43:36 Success!
+2016-05-15 07:43:36 
+2016-05-15 09:07:30 Trying to reply to: furyfairy
+2016-05-15 09:07:30 https://www.reddit.com/r/labrats/comments/4jfkv3/why_are_most_medical_diagnostics_binary/d369a09
+2016-05-15 09:07:32 Success!
+2016-05-15 09:07:32 
+2016-05-15 09:24:30 Trying to reply to: balanceofpower
+2016-05-15 09:24:30 https://www.reddit.com/r/NoStupidQuestions/comments/4jdaxz/im_not_capable_of_getting_brain_freeze_yes_i_have/d369vni
+2016-05-15 09:24:32 Success!
+2016-05-15 09:24:32 
+2016-05-15 09:31:08 Trying to reply to: Completerubbish17
+2016-05-15 09:31:08 https://www.reddit.com/r/apple/comments/4ikrny/where_are_the_rmbp_leaks/d369vt2
+2016-05-15 09:31:10 Success!
+2016-05-15 09:31:10 
+2016-05-15 13:04:38 Trying to reply to: ICreepsItReal
+2016-05-15 13:04:38 https://www.reddit.com/r/SVRiders/comments/4jeeps/bike_came_with_two_seats_dont_know_why/d36gwl6
+2016-05-15 13:04:40 Success!
+2016-05-15 13:04:40 
