@@ -28,9 +28,6 @@ def parenCountOpen(str):
 	return str.count("(") - str.count(")")
 
 def stringProc(s):
-  global removeEmotes
-  global repls
-
-  s = s.replace(" ", "")
-  s = reduce(lambda a, kv: a.replace(*kv), repls, s)
-  return removeEmotes.sub("", s)
+	s = s.replace(" ", "")
+	s = reduce(lambda a, kv: a.replace(*kv), repls, s)
+	return removeEmotes.sub("", s)
